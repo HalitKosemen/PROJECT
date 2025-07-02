@@ -33,3 +33,8 @@ This ensures stable and safe operation even under high power demands, while prev
 
 ![image url](https://github.com/HalitKosemen/PROJECT/blob/3179402857f6a7a159d1b50bbcf4538313963cb2/PROJECT/pcb.JPG)
 ![image url](https://github.com/HalitKosemen/PROJECT/blob/3179402857f6a7a159d1b50bbcf4538313963cb2/PROJECT/5amper.JPG)
+
+
+![image url](https://github.com/HalitKosemen/PROJECT/blob/5ee054500326cc8f9ce506b1c7131328aad1549f/PROJECT/project.JPG)
+![image url](https://github.com/HalitKosemen/PROJECT/blob/5ee054500326cc8f9ce506b1c7131328aad1549f/PROJECT/front.jpg)
+![image url](https://github.com/HalitKosemen/PROJECT/blob/5ee054500326cc8f9ce506b1c7131328aad1549f/PROJECT/sff.jpg)
