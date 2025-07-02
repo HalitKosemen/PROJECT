@@ -10,13 +10,13 @@ SYSTEM FEATURES:
 
 -Unlimited Pan Motion: One of the most distinctive features of our system is its ability to rotate endlessly on the horizontal axis, thanks to our custom-designed slip-ring mechanism. This mechanism enables continuous transmission of power and control signals without cable tangling issues, allowing uninterrupted target tracking.
 
-![image url]()
-![image url]()
-![image url]()
+![image url](https://github.com/HalitKosemen/PROJECT/blob/edfb45e45943161daf13d053ba86be82c9e8b0fc/PROJECT/slipring.JPG)
+![image url](https://github.com/HalitKosemen/PROJECT/blob/edfb45e45943161daf13d053ba86be82c9e8b0fc/PROJECT/slip_ring2.jpg)
+![image url](https://github.com/HalitKosemen/PROJECT/blob/edfb45e45943161daf13d053ba86be82c9e8b0fc/PROJECT/ring.JPG)
 
 -Precise Two-Axis Control: The Pan and Tilt axes are controlled by stepper motors, allowing the target's position to be adjusted with millimeter-level precision in both horizontal and vertical planes.
 
-![image url]()
+![image url](https://github.com/HalitKosemen/PROJECT/blob/edfb45e45943161daf13d053ba86be82c9e8b0fc/PROJECT/top.JPG)
 
 -Visual Target Tracking: The Raspberry Pi Camera V3 mounted at the end of the system provides a high-resolution video stream. Our OpenCV-based software running on a PC analyzes this stream to extract the real-time position of the target.
 
