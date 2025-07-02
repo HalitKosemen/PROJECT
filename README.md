@@ -28,5 +28,5 @@ Custom Driver Board and Power Management: The system uses a custom-designed driv
 Most importantly, since the power supply for all components — including the Raspberry Pi — passes through this board, the power traces and widths on the PCB have been carefully designed to support current loads of up to 5 Amps.
 This ensures stable and safe operation even under high power demands, while preventing potential issues such as overheating and voltage drops.
 
-![image url]()
-![image url]()
+![image url](https://github.com/HalitKosemen/PROJECT/blob/3179402857f6a7a159d1b50bbcf4538313963cb2/PROJECT/pcb.JPG)
+![image url](https://github.com/HalitKosemen/PROJECT/blob/3179402857f6a7a159d1b50bbcf4538313963cb2/PROJECT/5amper.JPG)
