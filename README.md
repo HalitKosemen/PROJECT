@@ -19,7 +19,10 @@ SYSTEM FEATURES:
 ![image url]()
 
 -Visual Target Tracking: The Raspberry Pi Camera V3 mounted at the end of the system provides a high-resolution video stream. Our OpenCV-based software running on a PC analyzes this stream to extract the real-time position of the target.
+
+
 -PID Control: Precise motor movements on the Pan and Tilt axes are managed using an optimized PID (Proportional-Integral-Derivative) control algorithm. This ensures fast, stable, and accurate locking onto the target. The PID coefficients can be easily adjusted during system operation.
+
 
 Custom Driver Board and Power Management: The system uses a custom-designed driver board (PCB) to precisely control the stepper motors and reliably power the entire system. This board receives STEP and DIRECTION control signals from the Raspberry Pi and transmits them to the motors to manage their stepping movements.
 Most importantly, since the power supply for all components — including the Raspberry Pi — passes through this board, the power traces and widths on the PCB have been carefully designed to support current loads of up to 5 Amps.
